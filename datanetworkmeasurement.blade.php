@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+ <!--тестирование-->
 @section('content')
 <div class="container">
     <div class="row">
